@@ -6,7 +6,7 @@ The Simple Go Load Balancer is a basic load balancing application written in Go.
 
 - Round-robin load balancing
 - Customizable backend servers
-- Basic error handling
+- Basic health checks
 
 ## Getting Started
 
